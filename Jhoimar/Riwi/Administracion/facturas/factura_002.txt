@@ -1,0 +1,4 @@
+Numero: 002
+Cliente: Luis
+Valor: 50000
+Estado: Pendiente
